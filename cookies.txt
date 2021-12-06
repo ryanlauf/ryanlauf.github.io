@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.microsoft.com	TRUE	/	FALSE	1999999999	isFirstSession	1
+.microsoft.com	TRUE	/	FALSE	1999999999	MUID	0A2915C551D060121FF3053B50EA61CB
+www.microsoft.com	TRUE	/	FALSE	1999999999	X-FD-FEATURES	ids=atperf680t2%2c12570t1%2ctasmigration010%2ccartemberpl%2cdisablenorefunds%2cdaconvertenabled%2cenablescarlettmetadata%2credirecttogarrison%2csha-exp-inlyi9j7ql&imp=8e8829db-f573-4f7c-89fa-bf1743927b8d
+www.microsoft.com	TRUE	/	FALSE	1999999999	X-FD-Time	1
+www.microsoft.com	TRUE	/	FALSE	1999999999	SameSite	None
+
